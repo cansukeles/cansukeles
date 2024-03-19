@@ -1,7 +1,7 @@
 ### 
 
 - 👋 Hi there! I'm Cansu, I'm working as a Corporate Communications Specialist. 
-- ⚡ I'm also a passionate fullstack developer student from Turkey.
+- ⚡ I'm also a passionate fullstack web developer student from Turkey.
 - 🔭 I'm enthusiastic about technology and enjoy diving into various programming languages and platforms. My journey into the world of programming began in 2023.
 - 🌱 I'm currently learning Java, Spring Boot, JavaScript and React technologies.
 - 👯 Feel free to reach out to me at zeynepcansuoral@gmail.com. I'm always open to interesting conversations, collaboration opportunities, or just saying "hi"!
